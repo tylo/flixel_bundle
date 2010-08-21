@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>"./_create_flixel_project.sh"</string>
+	<key>extension</key>
+	<string>as</string>
+	<key>name</key>
+	<string>Project</string>
+	<key>uuid</key>
+	<string>471685E3-6FDB-47B2-9A8E-F51849ED80F5</string>
+</dict>
+</plist>
